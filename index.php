@@ -1,3 +1,3 @@
 <?
-echo '<script>location.reload()</script>'
+echo '<script>location.reload()</script>';
 >
